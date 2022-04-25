@@ -1,0 +1,24 @@
+.card{
+    width: 60%;
+    margin: 0  auto;
+  
+}
+body{
+    background-color:#faf3e3
+}
+.pick{
+    
+    text-align: center;
+}
+.headtext{
+    text-align: center;
+    font-family:serif ;
+    border-bottom: aqua solid 2px;
+}
+.redhead{
+    color: #ba6448;
+}
+p,span{  
+    font-family: sans-serif;
+    font-weight: bold;
+}
